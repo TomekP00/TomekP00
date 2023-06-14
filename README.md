@@ -1,7 +1,10 @@
 ### Hi there 👋
 <h1>Hello! 👋</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h3>
+🌱 I’m currently learning: 
+</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cs,cpp,java, git)](https://skillicons.dev)
 
 <!--
 **TomekP00/TomekP00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
