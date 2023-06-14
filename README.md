@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1>Hello! 👋</h1>
-I’m currently learning: 
+<h3>I’m currently learning:</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cs,cpp,java,github)](https://skillicons.dev)
 
